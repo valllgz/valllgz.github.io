@@ -3,14 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página con Imagen</title>
+    <title>Día Especial<3</title>
 </head>
 <body>
 
-    <h1>Página con Imagen</h1>
-
-    <!-- Imagen de demostración hospedada en un servidor público -->
-    <img src="file:///C:/Users/Valeria%20Rochelin/Downloads/especial%20day.html800x400" alt="Imagen de demostración" width="800" height="400">
+    <h1>Ubicación actual:</h1>
+    <img src="Captura de pantalla 2024-02-20 203825.png" alt="Descripción de la imagen" width="1270" height="650">
 
 </body>
 </html>
