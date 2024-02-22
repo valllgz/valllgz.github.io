@@ -7,7 +7,6 @@
 </head>
 <body>
 
-    <h1>Ubicación actual:</h1>
     <img src="Captura de pantalla 2024-02-21 215337.png" alt="Descripción de la imagen" width="1270" height="650">
 
 </body>
